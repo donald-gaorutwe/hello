@@ -1,5 +1,5 @@
 # hello
-hello world
+
 git init
 git clone
 git status
